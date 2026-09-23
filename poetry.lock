@@ -40,7 +40,18 @@ files = [
     {file = "ruff-0.16.8.tar.gz", hash = "sha256:9247bf92b5f04d825c8639a4fe423ec2e4222acd9222e58412b0dab7e442798b"},
 ]
 
+[[package]]
+name = "ushlex"
+version = "0.99.1"
+description = "Replacement for shlex (that works with unicode) for Python 2.X."
+optional = false
+python-versions = "*"
+groups = ["main"]
+files = [
+    {file = "ushlex-0.99.1.tar.gz", hash = "sha256:6d681561545a9781430d5254eab9a648bade78c82ffd127d56c9228ae8887d46"},
+]
+
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.12"
-content-hash = "ae4dd0a11243bc5fa098557feb8e60622695e651a33cf9e00bf8e622256df06b"
+content-hash = "03c71ba78639d132a719168a1239029458f6ef3c52fb0cd7cb740f10bbbc9ecc"
