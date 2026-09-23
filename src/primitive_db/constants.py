@@ -1,0 +1,13 @@
+META_FILE = "db_meta.json"
+DATA_DIR = "data"
+DATA_FILE_EXTENSION = ".json"
+ID_COLUMN = "ID"
+ID_TYPE = "int"
+VALID_TYPES = ("int", "str", "bool")
+TRUE_VALUE = "true"
+FALSE_VALUE = "false"
+QUOTE = '"'
+FIRST_ID = 1
+PROMPT_TEXT = "Введите команду: "
+CONFIRM_ANSWER = "y"
+TIME_PRECISION = 3

@@ -1,3 +1,6 @@
 .venv/
+dist/
 __pycache__/
 .ruff_cache/
+db_meta.json
+data/
